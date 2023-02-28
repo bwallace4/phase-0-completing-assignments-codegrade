@@ -86,7 +86,7 @@ To download the repository for this lesson, first make sure you're in your
 personal fork on GitHub. You can check this by looking in the top left of the
 GitHub repository, where it shows the name.
 
-![Screenshot showing example of forked repo](https://curriculum-content.s3.amazonaws.com/phase-0/completing-assignments/forked-repo.png)
+![Screenshot showing example of forked repo](https://curriculum-content.s3.amazonaws.com/phase-0/compl<eting-assignments/forked-repo.png)
 
 If you see your GitHub username before the name of the repo,
 phase-0-completing-assignments-codegrade, as well as a subtitle saying "forked
